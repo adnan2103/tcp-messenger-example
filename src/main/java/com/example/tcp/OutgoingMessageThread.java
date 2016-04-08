@@ -29,7 +29,6 @@ public class OutgoingMessageThread implements Runnable {
             }
         } catch (IOException e) {
             System.out.println(e);
-
         }
     }
 }
